@@ -1,8 +1,8 @@
 #👋 Hi, I’m @JimSu from Taiwan
 # 👀 I’m interested in
-  *Programming
-  *App development
-  *Financial Studies
+* Programming
+* App development
+* Financial Studies
 - 🌱 I’m currently learning **Information Management in NCU**
 - 📫 How to reach me e-mail:jimsu2000ncu@g.ncu.edu.tw
 
