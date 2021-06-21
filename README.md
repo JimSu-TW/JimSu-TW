@@ -3,7 +3,6 @@
 * Programming
 * App development
 * Financial Studies
-* 
 ## 🌱 I’m currently learning **Information Management in NCU**
 ## 📫 How to reach me e-mail:jimsu2000ncu@g.ncu.edu.tw
 
