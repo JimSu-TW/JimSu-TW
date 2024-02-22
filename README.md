@@ -3,9 +3,9 @@
 * Programming
 * App development
 * Machine Learning
-#### 🌱 I’m currently master student in **Dept. of Information Management, National Taiwan University**
-#### Graduate from Dept. of Information Management, National Central University
+#### Master student of **Dept. of Information Management, National Taiwan University**
 #### 📫 How to reach me e-mail: r12725037@g.ntu.edu.tw
+#### LinkedIn: www.linkedin.com/in/jim-su-078742202
 
 <!---
 JimSu-TW/JimSu-TW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
